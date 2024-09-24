@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#one-span{
+    color: brown;
+    font-size: 30px;
+}
+
+#two-span{
+    color: rgb(27, 165, 34);
+    font-size: 30px;
+}
+
+#three-span{
+    color: rgb(21, 59, 184);
+    font-size: 30px;
+}
+
+#four-span{
+    color: rgb(212, 11, 62);
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
